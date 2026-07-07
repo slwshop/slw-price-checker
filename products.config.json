@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "tofu-eomuk",
+      "name": "뚱딴지 두부어묵 어육바 9팩 45개- 체험분 포함/ 어묵 오뎅 오뎅탕",
+      "searchKeyword": "뚱딴지 두부어묵 어육바",
+      "image": "https://slwshop.cafe24.com/web/product/medium/202606/5cf13c1373b1436f1154b76423fbdee6.jpg",
+      "detailUrl": "https://slwshop.cafe24.com/product/뚱딴지-두부어묵-어육바-9팩-45개-체험분-포함-어묵-오뎅-오뎅탕/2308/category/109/display/1/",
+      "coupangPrice": null,
+      "coupangUrl": ""
+    },
+    {
+      "id": "lir-smile-patch",
+      "name": "리르 스마일 주름패치 100매+체험분 증정/ 팔자주름 리프팅 패치 눈가 이마 패치 미간",
+      "searchKeyword": "리르 스마일 주름패치",
+      "image": "https://slwshop.cafe24.com/web/product/medium/202605/8e98712fb025728a1bd0794f8e7299cc.jpg",
+      "detailUrl": "https://slwshop.cafe24.com/product/리르-스마일-주름패치-100매체험분-증정-팔자주름-리프팅-패치-눈가-이마-패치-미간/2283/category/109/display/1/",
+      "coupangPrice": null,
+      "coupangUrl": ""
+    },
+    {
+      "id": "dr-ogidum-ampule",
+      "name": "닥터오기덤 콜라겐 앰플팩 2종 100매 비타민 앰플 마스크 콜라겐 시트팩",
+      "searchKeyword": "닥터오기덤 콜라겐 앰플팩",
+      "image": "https://slwshop.cafe24.com/web/product/medium/202605/01718325ed3cf6848a676d95822cdd0a.jpg",
+      "detailUrl": "https://slwshop.cafe24.com/product/닥터오기덤-콜라겐-앰플팩-2종-100매-비타민-앰플-마스크-콜라겐-시트팩/2274/category/109/display/1/",
+      "coupangPrice": null,
+      "coupangUrl": ""
+    },
+    {
+      "id": "rapa402alpha",
+      "name": "[공식판매처] 라파402알파 퇴행성관절염 VIP 통증 치료의료기기",
+      "searchKeyword": "라파402알파",
+      "image": "https://slwshop.cafe24.com/web/product/medium/202509/843cb07c7d4b6aebde21c2395ba1e5ad.jpg",
+      "detailUrl": "https://slwshop.cafe24.com/product/공식판매처-라파402알파-퇴행성관절염-vip-통증-치료의료기기/668/category/109/display/1/",
+      "coupangPrice": null,
+      "coupangUrl": ""
+    }
+  ]
+}
